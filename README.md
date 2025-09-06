@@ -14,3 +14,5 @@ https://imagecompressor.com/
  Створення репозиторія на основі попереднього - https://www.loom.com/share/2e962d6a22ae44c3bcfcc502005f35da?sid=03555d66-2b7b-4451-9548-fc32bdb10315
  
  Робота зі шрифтами - https://www.loom.com/share/5a37053c507442eb91598efe53952e16?sid=cb19c128-8739-4eb3-abbe-657d39317532
+
+ створення спрайту та підключення іконок - https://www.loom.com/share/458929eb9d204896b359a2a9ea5525da?sid=cda61497-6d8b-44db-bf07-d3fd3858ef67
